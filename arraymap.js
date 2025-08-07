@@ -1,4 +1,4 @@
-const output = arr.map((x) => x*5)
+const output = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
 
 // function double(x){
 //     return x*2;
@@ -15,8 +15,8 @@ const output = arr.map((x) => x*5)
 
 
 
-const output = arr.map((x) => x*5)
-console.log(output)
+const output = arr.map((x) => x*5);
+console.log(output);
 
 
 
@@ -32,5 +32,6 @@ console.log(output)
 // console.log(output)
 
 // ((x) =>x.toString(2))
+
 
 
